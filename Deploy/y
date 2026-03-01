@@ -1,0 +1,5 @@
+git init           # si es un repositorio nuevo local
+git add .
+git commit -m "Deploy WebGL Unity"
+git remote add origin https://github.com/TU-USUARIO/NOMBRE-REPO.git
+git push -u origin main
